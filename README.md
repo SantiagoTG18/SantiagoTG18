@@ -1,13 +1,13 @@
-# Hola, soy Santiago Torres García 👋
+# Hola, soy Santiago Torres García 
 
 **Desarrollador de Software Junior y Analista de Datos** · Bogotá, Colombia
 Tecnólogo en Análisis y Desarrollo de Software (SENA) en formación · Técnico en Sistemas Informáticos
 
-- 💼 Experiencia en **Claro (Comcel)** como Analista de Bases de Datos con Programación: análisis de grandes volúmenes de datos, automatización con Python y tableros en Tableau.
-- 🌐 Desarrollo sitios y sistemas web para negocios con el equipo **CodeState**.
-- 🤖 Programo con apoyo de **inteligencia artificial (Claude Code)** para acelerar el desarrollo, depurar, escribir pruebas y documentar, revisando y validando el código que entrego.
+-  Experiencia en **Claro (Comcel)** como Analista de Bases de Datos con Programación: análisis de grandes volúmenes de datos, automatización con Python y tableros en Tableau.
+-  Desarrollo sitios y sistemas web para negocios con el equipo **CodeState**.
+-  Programo con apoyo de **inteligencia artificial (Claude Code)** para acelerar el desarrollo, depurar, escribir pruebas y documentar, revisando y validando el código que entrego.
 
-## 🛠️ Tecnologías
+##  Tecnologías
 **Lenguajes:** Java · Python · SQL · JavaScript · HTML · CSS
 **Back-end:** Spring Boot · Spring Data JPA · APIs REST · Servlets/JSP
 **Front-end:** React · Vite · Thymeleaf
@@ -15,7 +15,7 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA) en formación · Técnic
 **Pruebas y herramientas:** JUnit 5 · MockMvc · Vitest · Postman · Swagger · Git · Maven
 **Datos:** Power BI · Tableau · Excel avanzado
 
-## 🚀 Proyecto destacado: NikFashion
+##  Proyecto destacado: NikFashion
 Tienda virtual de calzado construida paso a paso durante mi formación en el SENA:
 
 | Repositorio | Qué es | Tecnologías |
@@ -27,5 +27,5 @@ Tienda virtual de calzado construida paso a paso durante mi formación en el SEN
 | [NikFashionWeb](https://github.com/SantiagoTG18/NikFashionWeb) | Módulo web | Servlets, JSP, Tomcat |
 | [NikFashion](https://github.com/SantiagoTG18/NikFashion) | Módulo de inventario en consola | Java, JDBC, MySQL |
 
-## 📫 Contacto
+##  Contacto
 [LinkedIn](https://www.linkedin.com/in/santiago-torres-garc%C3%ADa-820a782) · torresgarciasanty@gmail.com
